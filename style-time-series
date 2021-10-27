@@ -16,7 +16,7 @@ axes.prop_cycle : cycler('color',
  '#17becf'])
 
 # Set default figure size
-#figure.figsize : 3.5, 2.625
+#figure.figsize : 24, 8
 
 # Set x axis
 xtick.direction : in
@@ -39,7 +39,7 @@ ytick.right : True
 # Set line widths
 axes.linewidth : 0.5
 grid.linewidth : 0.5
-lines.linewidth : 1.
+lines.linewidth : 3.
 
 # Remove legend frame
 legend.frameon : False
