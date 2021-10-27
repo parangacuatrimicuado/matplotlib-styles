@@ -3,10 +3,10 @@
 # see: https://github.com/garrettj403/SciencePlots
 
 # Set color cycle: blue, green, yellow, red, violet, gray
-axes.prop_cycle : cycler('color', ['#1f77b4','#ff7f0e','#2ca02c','#d62728','#9467bd','#8c564b','#e377c2','#7f7f7f','#bcbd22','#17becf'])
+axes.prop_cycle : cycler('color', ['1f77b4','ff7f0e','2ca02c','d62728','9467bd','8c564b','e377c2','7f7f7f','bcbd22','17becf'])
 
 # Set default figure size
-#figure.figsize : 24, 8
+#figure.figsize : 3.5, 2.625
 
 # Set x axis
 xtick.direction : in
