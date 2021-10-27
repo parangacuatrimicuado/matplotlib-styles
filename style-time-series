@@ -31,8 +31,8 @@ axes.linewidth : 0.5
 grid.linewidth : 0.5
 lines.linewidth : 3.
 
-# Remove legend frame
-# legend.frameon : False
+# Remove legend frame #Changed, NOT remove legend
+legend.frameon : True
 
 # Always save as 'tight'
 savefig.bbox : tight
