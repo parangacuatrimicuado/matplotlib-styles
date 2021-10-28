@@ -16,7 +16,7 @@ xtick.minor.size    : 1.5
 xtick.minor.width   : 0.5
 xtick.minor.visible : True
 xtick.top           : True
-xtick.labelsize     : 14 #numeros
+xtick.labelsize     : 15 #numeros
 
 # Set y axis
 ytick.direction     : in
@@ -26,7 +26,7 @@ ytick.minor.size    : 1.5
 ytick.minor.width   : 0.5
 ytick.minor.visible : True
 ytick.right         : True
-ytick.labelsize     : 14
+ytick.labelsize     : 15
 
 # Set line widths
 axes.linewidth  : 0.5
