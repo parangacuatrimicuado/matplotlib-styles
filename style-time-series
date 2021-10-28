@@ -53,6 +53,9 @@ savefig.pad_inches : 0.05
 # font.family : STIXGeneral
 # mathtext.fontset : dejavuserif
 
+font.family : serif
+mathtext.fontset : cm
+
 # Use LaTeX for math formatting
 #text.usetex : True
 #text.latex.preamble : \usepackage{amsmath} \usepackage{amssymb}
