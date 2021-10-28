@@ -55,7 +55,8 @@ savefig.pad_inches : 0.05
 # mathtext.fontset : dejavuserif
 
 font.family : serif
-mathtext.fontset : cm
+#mathtext.fontset : cm
+mathtext.bf  : sans:bold
 
 # Use LaTeX for math formatting
 #text.usetex : True
