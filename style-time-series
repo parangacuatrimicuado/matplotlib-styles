@@ -55,7 +55,7 @@ savefig.pad_inches : 0.05
 # mathtext.fontset : dejavuserif
 
 
-font.family      : Comic Sans MS
+font.family      : serif
 mathtext.fontset : dejavuserif
 #mathtext.bf     : sans:bold
 
