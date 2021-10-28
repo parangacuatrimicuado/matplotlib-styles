@@ -54,10 +54,10 @@ savefig.pad_inches : 0.05
 # font.family : STIXGeneral
 # mathtext.fontset : dejavuserif
 
-font.family       : monospace
-font.monospace    : Computer Modern Typewriter
+font.family      : fantasy
+font.fantasy     : Comic Sans MS
 mathtext.fontset : dejavuserif
-#mathtext.bf       : sans:bold
+#mathtext.bf     : sans:bold
 
 # Use LaTeX for math formatting
 #text.usetex : True
