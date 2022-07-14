@@ -8,6 +8,7 @@ axes.prop_cycle : cycler('color', ['1f77b4','ff7f0e','2ca02c','d62728','9467bd',
 # Set default figure size
 #figure.figsize : 3.5, 2.625
 figure.titlesize: 24
+figure.titleweight: bold
 
 # Set x axis
 xtick.direction     : in
